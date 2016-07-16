@@ -64,7 +64,7 @@ def print_results(categories):
         print '{}'.format(category)
         print '         Count: {}'.format(category_data['count'])
         print '         Earliest: {}'.format(category_data['earliest'].strftime('%Y-%m-%d'))
-        print '         Ldatest: {}'.format(category_data['latest'].strftime('%Y-%m-%d'))
+        print '         Latest: {}'.format(category_data['latest'].strftime('%Y-%m-%d'))
 
 
 if __name__ == "__main__":
