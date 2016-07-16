@@ -1,12 +1,6 @@
+"""Script to process csv file of building code violations"""
 import csv
 from datetime import date, datetime
-
-
-
-# Your program should calculate the number of violations in each category
-# and the earliest and latest violation date for each category. 
-# You can use your preferred programming language, and decide on the presentation format of the resulting data.
-
 
 
 def process_csv(input_file):
@@ -57,6 +51,7 @@ def process_csv(input_file):
 
 
 def print_results(categories):
+    """Takes dictionary of categories and their associated data, prints it to console"""
 
     for category in categories:
         category_data = categories[category]
