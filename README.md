@@ -14,36 +14,36 @@ This is a program that processes a csv file containing building code violations.
 Air Pollutants and Odors
  * Count: 2
  * Earliest: 2012-12-05
- * Ldatest: 2012-12-19
+ * Latest: 2012-12-19
 Garbage and Refuse
  * Count: 126
  * Earliest: 2012-01-03
- * Ldatest: 2012-12-21
+ * Latest: 2012-12-21
 Chemical Hazards
  * Count: 17
  * Earliest: 2012-02-08
- * Ldatest: 2012-12-06
+ * Latest: 2012-12-06
 Animals and Pests
  * Count: 180
  * Earliest: 2012-01-03
- * Ldatest: 2012-12-28
+ * Latest: 2012-12-28
 Retail Food
  * Count: 1
  * Earliest: 2012-12-20
- * Ldatest: 2012-12-20
+ * Latest: 2012-12-20
 Unsanitary Conditions
  * Count: 83
  * Earliest: 2012-01-03
- * Ldatest: 2012-12-19
+ * Latest: 2012-12-19
 Building Conditions
  * Count: 62
  * Earliest: 2012-01-12
- * Ldatest: 2012-12-26
+ * Latest: 2012-12-26
 Vegetation
  * Count: 67
  * Earliest: 2012-02-01
- * Ldatest: 2012-12-05
+ * Latest: 2012-12-05
 Biohazards
  * Count: 7
  * Earliest: 2012-04-13
- * Ldatest: 2012-12-18
+ * Latest: 2012-12-18
