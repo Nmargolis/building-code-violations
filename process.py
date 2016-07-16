@@ -61,10 +61,10 @@ def print_results(categories):
     for category in categories:
         category_data = categories[category]
         # print category_data
-        print 'Category: {}'.format(category)
+        print '{}'.format(category)
         print '         Count: {}'.format(category_data['count'])
-        print '         Earliest: {}'.format(category_data['earliest'].strftime('%Y-%m-%d %H:%M:%S'))
-        print '         Latest: {}'.format(category_data['latest'].strftime('%Y-%m-%d %H:%M:%S'))
+        print '         Earliest: {}'.format(category_data['earliest'].strftime('%Y-%m-%d'))
+        print '         Ldatest: {}'.format(category_data['latest'].strftime('%Y-%m-%d'))
 
 
 if __name__ == "__main__":
